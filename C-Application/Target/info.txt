@@ -1,0 +1,2 @@
+pre-buildt.
+execute with ./WagoShm
